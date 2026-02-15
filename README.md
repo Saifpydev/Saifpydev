@@ -8,6 +8,8 @@ I specialize in building scalable web applications and REST APIs using:
 - Django
 - Django REST Framework
 - JavaScript
+- HTML
+- CSS
 - SQL
 - PostgreSQL & MySQL
 
